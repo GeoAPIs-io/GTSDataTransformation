@@ -1,0 +1,316 @@
+  
+    4567.17 +/- 0.7 Ma: Hadean - Cryptic - Precambrian
+               4150 Ma:        - Precambrian - Basin Groups
+               4000 Ma:        - Precambrian - Basin Groups - Swazian
+               3975 Ma:        - Precambrian - Swazian - Nectarian
+               3900 Ma:        - Precambrian - Swazian - Early Imbrian
+               3800 Ma: Archean - Eoarchean - Precambrian - Isuan - Qianxin - Swazian
+         3600 +/- 0 Ma:         - Paleoarchean - Isuan - Qianxin - Precambrian - Swazian
+         3200 +/- 0 Ma:         - Mesoarchean - Precambrian - Swazian
+               3100 Ma:         -             - Precambrian - Swazian - Fupingan
+               3000 Ma:         -             - Precambrian - Fupingan - Randian
+         2800 +/- 0 Ma:         - Neoarchean - Fupingan - Randian - Precambrian
+               2600 Ma:         -            - Randian - Precambrian - Wutaian
+         2500 +/- 0 Ma: Proterozoic - Paleoproterozoic - Siderian - Vaalian - Nullaginian - Wutaian - Huronian - Precambrian
+               2350 Ma:             -                  -          - Nullaginian - Precambrian - Huronian - Vaalian - Luliangian
+         2300 +/- 0 Ma:             -                  - Rhyacian - Precambrian - Huronian - Vaalian - Luliangian - Nullaginian
+               2225 Ma:             -                  -          - Precambrian - Huronian - Vaalian - Luliangian - Nullaginian - Animikean
+         2050 +/- 0 Ma:             -                  - Orosirian - Huronian - Nullaginian - Luliangian - Animikean - Precambrian - Mokolian
+         1800 +/- 0 Ma:             -                  - Statherian - Precambrian - Luliangian - Animikean - Mokolian - Huronian - Carpentarian
+               1750 Ma:             -                  -            - Precambrian - Animikean - Mokolian - Huronian - Carpentarian - Jinningian
+         1600 +/- 0 Ma:             - Mesoproterozoic - Calymmian - Animikean - Mokolian - Carpentarian - Jinningian - Huronian - Precambrian - Helikian
+               1400 Ma:             -                 - Ectasian - Carpentarian - Jinningian - Precambrian - Helikian - Burzyan - Mokolian - Riphean
+               1375 Ma:             -                 -          - Carpentarian - Jinningian - Precambrian - Helikian - Mokolian - Riphean - Yurmatian
+               1300 Ma:             -                 -          - Jinningian - Precambrian - Helikian - Mokolian - Riphean - Yurmatian - Adelaidean
+         1200 +/- 0 Ma:             -                 - Stenian - Jinningian - Precambrian - Helikian - Riphean - Yurmatian - Adelaidean - Mokolian
+               1100 Ma:             -                 -         - Jinningian - Precambrian - Helikian - Riphean - Adelaidean - Mokolian - Karatau
+         1000 +/- 0 Ma:             - Neoproterozoic - Tonian - Jinningian - Helikian - Riphean - Adelaidean - Karatau - Precambrian - Mokolian
+                900 Ma:             -                -        - Helikian - Riphean - Adelaidean - Karatau - Precambrian - Jinningian - Namibian
+          850 +/- 0 Ma:             -                - Cryogenian - Riphean - Adelaidean - Karatau - Precambrian - Namibian - Jinningian - Hadrynian
+                800 Ma:             -                -            - Precambrian - Namibian - Adelaidean - Hadrynian - Sturtian - Sinian
+                650 Ma:             -                -            - Precambrian - Namibian - Adelaidean - Hadrynian - Sinian - Smalfjord - Varangian - Vendian
+                640 Ma:             -                -            - Precambrian - Namibian - Adelaidean - Hadrynian - Sinian - Varangian - Vendian - Mortesnes
+         630 +5/-30 Ma:             -                - Ediacaran - Precambrian - Namibian - Hadrynian - Sinian - Vendian - Wonokan - Adelaidean
+                570 Ma:             -                -           - Precambrian - Namibian - Hadrynian - Sinian - Vendian - Adelaidean - Poundian
+        542 +/- 0.3 Ma: Phanerozoic - Paleozoic - Cambrian - Early Cambrian - Nemakit-Daldynian - Meishuchuan
+                534 Ma:             -           -          -                - Meishuchuan - Tommotian
+                532 Ma:             -           -          -                - Tommotian - Qungzusian
+                530 Ma:             -           -          -                - Qungzusian - Atdabanian
+              529.5 Ma:             -           -          -                - Qungzusian - Atdabanian - Montezuman
+              524.5 Ma:             -           -          -                - Qungzusian - Atdabanian - Dyeran
+                524 Ma:             -           -          -                - Qungzusian - Dyeran - Botomian - Lenian
+                523 Ma:             -           -          -                - Dyeran - Botomian - Lenian - Changlangpuan
+                520 Ma:             -           -          -                - Dyeran - Botomian - Lenian - Changlangpuan - Ordian
+              518.5 Ma:             -           -          -                - Dyeran - Lenian - Changlangpuan - Ordian - Toyonian
+                518 Ma:             -           -          -                - Dyeran - Lenian - Ordian - Toyonian - Longwangmioan
+          513 +/- 2 Ma:             -           -          - Middle Cambrian - Ordian - Maozhangian - Amgan - Dyeran
+                512 Ma:             -           -          -                 - Maozhangian - Amgan - Ordian - Delamaran
+                510 Ma:             -           -          -                 - Amgan - Maozhangian - Delamaran - Templetonian
+                509 Ma:             -           -          -                 - Amgan - Delamaran - Templetonian - Zuzhuangian
+                508 Ma:             -           -          -                 - Amgan - Delamaran - Zuzhuangian - Florian
+                506 Ma:             -           -          -                 - Amgan - Delamaran - Zuzhuangian - Undillian
+                505 Ma:             -           -          -                 - Amgan - Delamaran - Undillian - Zhungxian
+                504 Ma:             -           -          -                 - Amgan - Zhungxian - Boomerangian - Marjuman
+                502 Ma:             -           -          -                 - Zhungxian - Boomerangian - Marjuman - Mayan
+          501 +/- 2 Ma:             -           -          - Late Cambrian - Paibian - Maentwrogian - Marjuman - Ayusokkanian - Mindyallan
+                497 Ma:             -           -          -               -         - Marjuman - Ayusokkanian - Maentwrogian - Idamean
+              496.8 Ma:             -           -          -               -         - Ayusokkanian - Marjuman - Idamean - Festiniogian
+              494.5 Ma:             -           -          -               - Idamean - Festiniogian - Steptoan - Sakian
+                493 Ma:             -           -          -               - Festiniogian - Aksayan - Sunwaptan
+              492.5 Ma:             -           -          -               - Aksayan - Sunwaptan - Dolgellian
+              491.5 Ma:             -           -          -               - Sunwaptan - Dolgellian - Batyrbayan
+                491 Ma:             -           -          -               - Dolgellian - Batyrbayan - Payntonian - Ibexian
+      488.3 +/- 1.7 Ma:             -           - Ordovician - Early Ordovician - Tremadocian - Ibexian - Cressagian - Datsonian
+                486 Ma:             -           -            -                  -             - Datsonian - Ibexian - Migneintian
+                485 Ma:             -           -            -                  -             - Ibexian - Migneintian - Warendian - Warendian/Lancefieldian
+                482 Ma:             -           -            -                  -             - Ibexian - Migneintian - Warendian - Warendian/Lancefieldian - Lancefieldian
+      478.6 +/- 1.7 Ma:             -           -            -                  - Arenig - Warendian/Lancefieldian - Lancefieldian - Demingian - Moridunian - Honghuayuanian - Ibexian
+                475 Ma:             -           -            -                  -        - Honghuayuanian - Ibexian - Whitlandian - Bendigonian - Jeffersonian
+              473.5 Ma:             -           -            -                  -        - Honghuayuanian - Ibexian - Bendigonian - Jeffersonian - Fennian
+                473 Ma:             -           -            -                  -        - Honghuayuanian - Ibexian - Fennian - Cassinian - Chewtonian
+                472 Ma:             -           -            -                  -        - Ibexian - Fennian - Cassinian - Chewtonian - Dawanian
+      471.8 +/- 1.6 Ma:             -           -            - Middle Ordovician - Ordovician III - Llanvirn - White Rockian - Chewtonian
+                471 Ma:             -           -            -                   -                - White Rockian - Llanvirn - Castlemanian
+                470 Ma:             -           -            -                   -                - White Rockian - Llanvirn - Ypeenian
+      468.1 +/- 1.6 Ma:             -           -            -                   - Darriwilian - Llanvirn - White Rockian
+                464 Ma:             -           -            -                   -             - White Rockian - Llandeilo
+                462 Ma:             -           -            -                   -             - Llandeilo - Mohawkian
+      460.9 +/- 1.6 Ma:             -           -            - Late Ordovician - Ordovician V - Aurelucian - Gisbornian - Mohawkian - Baotan - Caradoc - Costonian
+                459 Ma:             -           -            -                 -              - Gisbornian - Mohawkian - Baotan - Caradoc - Aurelucian - Harnagian
+                458 Ma:             -           -            -                 -              - Gisbornian - Mohawkian - Baotan - Caradoc - Aurelucian - Soudleyan
+                457 Ma:             -           -            -                 -              - Mohawkian - Baotan - Caradoc - Gisbornian - Longvillian - Burrellian - Shermanian
+                456 Ma:             -           -            -                 -              - Baotan - Caradoc - Mohawkian - Longvillian - Burrellian - Shermanian - Eastonian
+      455.8 +/- 1.6 Ma:             -           -            -                 - Ordovician VI - Caradoc - Mohawkian - Longvillian - Burrellian - Shermanian - Eastonian - Baotan
+                455 Ma:             -           -            -                 -               - Caradoc - Mohawkian - Shermanian - Eastonian - Baotan - Marshbrookian - Cheneyan
+              454.5 Ma:             -           -            -                 -               - Mohawkian - Shermanian - Eastonian - Caradoc - Marshbrookian - Cheneyan - Linxiangian
+                454 Ma:             -           -            -                 -               - Mohawkian - Eastonian - Caradoc - Cheneyan - Linxiangian - Actonian - Edenian
+                453 Ma:             -           -            -                 -               - Mohawkian - Eastonian - Caradoc - Cheneyan - Linxiangian - Edenian - Onnian - Mayvillian
+                452 Ma:             -           -            -                 -               - Mohawkian - Eastonian - Caradoc - Linxiangian - Edenian - Onnian - Mayvillian - Streffordian
+                451 Ma:             -           -            -                 -               - Eastonian - Caradoc - Linxiangian - Edenian - Onnian - Mayvillian - Streffordian - Cincinnatian
+                450 Ma:             -           -            -                 -               - Caradoc - Linxiangian - Edenian - Onnian - Mayvillian - Streffordian - Cincinnatian - Bolindian
+                449 Ma:             -           -            -                 -               - Mayvillian - Cincinnatian - Bolindian - Pusgillian - Richmondian - Ashgill
+              447.5 Ma:             -           -            -                 -               - Cincinnatian - Bolindian - Richmondian - Ashgill - Cautleyan
+              446.5 Ma:             -           -            -                 -               - Cincinnatian - Bolindian - Richmondian - Ashgill - Rawtheyan
+      445.6 +/- 1.5 Ma:             -           -            -                 - Hirnantian - Bolindian - Ashgill - Cincinnatian
+      443.7 +/- 1.5 Ma:             -           - Silurian - Early Silurian - Llandovery - Rhuddanian - Keiloran - Longmaxian - Medinan - Alexandrian
+        439 +/- 1.8 Ma:             -           -          -                -            - Aeronian - Longmaxian - Medinan - Alexandrian - Idwian - Keiloran
+                438 Ma:             -           -          -                -            -          - Alexandrian - Idwian - Keiloran - Shinulanian - Niagaran
+              437.5 Ma:             -           -          -                -            -          - Alexandrian - Keiloran - Shinulanian - Niagaran - Fronian
+        436 +/- 1.9 Ma:             -           -          -                -            - Telychian - Shinulanian - Niagaran - Keiloran
+                433 Ma:             -           -          -                -            -           - Niagaran - Baishaean - Eildonian
+                429 Ma:             -           -          -                -            -           - Niagaran - Eildonian - Xiushanian
+      428.2 +/- 2.3 Ma:             -           -          -                - Wenlock - Sheinwoodian - Niagaran - Xiushanian - Melbournian
+      426.2 +/- 2.4 Ma:             -           -          -                -         - Homerian - Niagaran - Melbournian - Whitwellian - Xiushanian
+              425.5 Ma:             -           -          -                -         -          - Melbournian - Whitwellian - Niagaran - Guandian
+              425.4 Ma:             -           -          -                -         -          - Melbournian - Niagaran - Guandian - Gleedonian
+      422.9 +/- 2.5 Ma:             -           -          - Late Silurian - Ludlow - Gorstian - Niagaran - Melbournian - Guandian
+                422 Ma:             -           -          -               -        -          - Melbournian - Niagaran - Miaogoalingian
+      421.3 +/- 2.6 Ma:             -           -          -               -        - Ludfordian - Miaogoalingian - Melbournian - Cayugan
+      418.7 +/- 2.7 Ma:             -           -          -               - Pridoli - Cayugan - Melbournian
+        416 +/- 2.8 Ma:             -           - Devonian - Early Devonian - Lochkovian - Ulsterian - Lianhuashanian
+                413 Ma:             -           -          -                -            - Ulsterian - Nagaolingian
+      411.2 +/- 2.8 Ma:             -           -          -                - Praghian - Nagaolingian - Ulsterian
+                410 Ma:             -           -          -                -          - Ulsterian - Yujianian
+        407 +/- 2.8 Ma:             -           -          -                - Emsian - Ulsterian
+      397.5 +/- 2.7 Ma:             -           -          - Middle Devonian - Eifelian - Yingtangian - Ulsterian
+      391.8 +/- 2.7 Ma:             -           -          -                 - Givetian - Erian - Yingtangian
+              391.4 Ma:             -           -          -                 -          - Erian - Dongganglingian
+                388 Ma:             -           -          -                 -          - Dongganglingian - Senecan
+      385.3 +/- 2.6 Ma:             -           -          - Late Devonian - Frasnian - Senecan
+      374.5 +/- 2.6 Ma:             -           -          -               - Famennian - Senecan
+                370 Ma:             -           -          -               -           - Chatauquan
+      359.2 +/- 2.5 Ma:             -           - Carboniferous - Mississippian - Early Mississippian - Tournaisian - Hastarian - Dinantian - Kinderhookian - Shaodongian
+              349.5 Ma:             -           -               -               -                     -             - Dinantian - Hastarian - Kinderhookian - Yanguan
+                348 Ma:             -           -               -               -                     -             - Dinantian - Yanguan - Ivorean - Osagean
+      345.3 +/- 2.1 Ma:             -           -               -               - Middle Mississippian - Visean - Osagean - Chadian - Dinantian - Yanguan
+                345 Ma:             -           -               -               -                      -        - Chadian - Dinantian - Osagean - Datangian
+                341 Ma:             -           -               -               -                      -        - Dinantian - Osagean - Datangian - Arundian
+                340 Ma:             -           -               -               -                      -        - Dinantian - Datangian - Arundian - Meramecian
+                339 Ma:             -           -               -               -                      -        - Dinantian - Datangian - Meramecian - Holkerian
+              337.5 Ma:             -           -               -               -                      -        - Dinantian - Datangian - Meramecian - Asbian
+                336 Ma:             -           -               -               -                      -        - Dinantian - Datangian - Meramecian - Asbian - Brigantian
+                333 Ma:             -           -               -               -                      -        - Dinantian - Brigantian - Dewuan - Chesterian
+      326.4 +/- 1.6 Ma:             -           -               -               - Late Mississippian - Serpukhovian - Pendleian - Dewuan - Chesterian - Namurian - Silesian
+                326 Ma:             -           -               -               -                    -              - Dewuan - Chesterian - Namurian - Silesian - Arnsbergian - Elvirian
+                325 Ma:             -           -               -               -                    -              - Dewuan - Chesterian - Namurian - Silesian - Elvirian - Chokerian
+              324.5 Ma:             -           -               -               -                    -              - Dewuan - Chesterian - Namurian - Silesian - Alportian
+      318.1 +/- 1.3 Ma:             -           -               - Pennsylvanian - Early Pennsylvanian - Bashkirian - Huashibanian - Namurian - Silesian - Kinderscoutian
+                317 Ma:             -           -               -               -                     -            - Namurian - Silesian - Huashibanian - Marsdenian
+              315.5 Ma:             -           -               -               -                     -            - Namurian - Silesian - Huashibanian - Yeadonian
+                315 Ma:             -           -               -               -                     -            - Huashibanian - Silesian - Yeadonian - Westphalian
+              314.5 Ma:             -           -               -               -                     -            - Huashibanian - Silesian - Westphalian - Cheremshanskian
+              313.4 Ma:             -           -               -               -                     -            - Huashibanian - Silesian - Westphalian - Melekesskian
+                313 Ma:             -           -               -               -                     -            - Silesian - Westphalian - Melekesskian - Dalanian
+      311.7 +/- 1.1 Ma:             -           -               -               - Middle Pennsylvanian - Moscovian - Dalanian - Vereiskian - Atokan/Derryan - Silesian - Westphalian
+                310 Ma:             -           -               -               -                      -           - Vereiskian - Atokan/Derryan - Silesian - Westphalian - Mapingian
+              309.2 Ma:             -           -               -               -                      -           - Atokan/Derryan - Silesian - Westphalian - Mapingian - Kashirskian
+                308 Ma:             -           -               -               -                      -           - Silesian - Westphalian - Mapingian - Podolskian - Desmoinian
+              307.2 Ma:             -           -               -               -                      -           - Silesian - Westphalian - Mapingian - Desmoinian - Myachkovskian
+        306.5 +/- 1 Ma:             -           -               -               - Late Pennsylvanian - Kasimovian - Krevyakinskian - Missourian - Silesian - Stephanian - Mapingian
+                306 Ma:             -           -               -               -                    -            - Missourian - Silesian - Stephanian - Mapingian - Chamovnicheskian
+                305 Ma:             -           -               -               -                    -            - Silesian - Stephanian - Mapingian - Dorogomilovksian - Virgilian
+      303.9 +/- 0.9 Ma:             -           -               -               -                    - Gzhelian - Stephanian - Silesian - Virgilian - Klazminskian - Mapingian
+              300.5 Ma:             -           -               -               -                    -          - Stephanian - Silesian - Virgilian - Mapingian - Noginskian
+        299 +/- 0.8 Ma:             -           - Permian - Early Permian - Asselian - Wolfcampian
+      294.6 +/- 0.8 Ma:             -           -         -               - Sakmarian - Wolfcampian
+                289 Ma:             -           -         -               -           - Wolfcampian - Telfordian
+      284.4 +/- 0.7 Ma:             -           -         -               - Artinskian - Telfordian - Wolfcampian
+                280 Ma:             -           -         -               -            - Telfordian - Leonardian
+                278 Ma:             -           -         -               -            - Leonardian - Mangapirian
+      275.6 +/- 0.7 Ma:             -           -         -               - Kungurian - Mangapirian - Leonardian
+      270.6 +/- 0.7 Ma:             -           -         - Middle Permian - Roadian - Kazanian - Braxtonian - Thuringian
+        268 +/- 0.7 Ma:             -           -         -                - Wordian - Braxtonian - Thuringian - Kazanian
+      265.8 +/- 0.7 Ma:             -           -         -                - Capitanian - Braxtonian - Thuringian - Kazanian
+      260.4 +/- 0.7 Ma:             -           -         - Late Permian - Wuchiapingian - Thuringian - Ochoan - Waiitian
+      253.8 +/- 0.7 Ma:             -           -         -              - Changhsingian - Thuringian - Makabewan - Ochoan
+        251 +/- 0.4 Ma:             - Mesozoic - Triassic - Early Triassic - Induan - Griesbachian
+              250.4 Ma:             -          -          -                -        - Dienerian
+      249.7 +/- 0.7 Ma:             -          -          -                - Olenekian - Smithian
+                248 Ma:             -          -          -                -           - Smithian - Malakovian
+              247.4 Ma:             -          -          -                -           - Malakovian - Spathian
+        245 +/- 1.5 Ma:             -          -          - Middle Triassic - Anisian - Malakovian - Aegean
+                243 Ma:             -          -          -                 -         - Bithynian - Etalian
+                241 Ma:             -          -          -                 -         - Etalian - Pelsonian
+                239 Ma:             -          -          -                 -         - Etalian - Illyrian
+          237 +/- 2 Ma:             -          -          -                 - Ladinian - Fassanian - Etalian
+                232 Ma:             -          -          -                 -          - Fassanian - Kaihikuan
+              231.4 Ma:             -          -          -                 -          - Kaihikuan - Longobardian
+          228 +/- 2 Ma:             -          -          - Late Triassic - Carnian - Bananian - Kaihikuan - Julian
+                225 Ma:             -          -          -               -         - Bananian - Oretian - Tuvalian
+                219 Ma:             -          -          -               -         - Oretian - Tuvalian - Huobachengian
+                218 Ma:             -          -          -               -         - Tuvalian - Huobachengian - Otamitan
+        216.5 +/- 2 Ma:             -          -          -               - Norian - Otamitan - Lacinian - Huobachengian
+                216 Ma:             -          -          -               -        - Otamitan - Huobachengian - Alaunian
+                211 Ma:             -          -          -               -        - Otamitan - Huobachengian - Sevatian
+                209 Ma:             -          -          -               -        - Otamitan - Sevatian - Erqiaoan
+                206 Ma:             -          -          -               -        - Sevatian - Erqiaoan - Warepan
+      203.6 +/- 1.5 Ma:             -          -          -               - Rhaetian - Warepan - Erqiaoan
+                203 Ma:             -          -          -               -          - Erqiaoan - Otapirian
+      199.6 +/- 0.6 Ma:             -          - Jurassic - Early Jurassic - Hettangian - Aratauran
+        196.5 +/- 1 Ma:             -          -          -                - Sinemurian - Aratauran
+              193.3 Ma:             -          -          -                -            - Aratauran - Lotharingian
+      189.6 +/- 1.5 Ma:             -          -          -                - Pliensbachian - Aratauran
+                188 Ma:             -          -          -                -               - Uruoan
+        183 +/- 1.5 Ma:             -          -          -                - Toarcian - Uruoan
+        175.6 +/- 2 Ma:             -          -          - Middle Jurassic - Aalenian - Xintiangouan - Uruoan
+        171.6 +/- 3 Ma:             -          -          -                 - Bajocian - Uruoan - Xintiangouan
+                169 Ma:             -          -          -                 -          - Xintiangouan - Temaikan
+      167.7 +/- 3.5 Ma:             -          -          -                 - Bathonian - Temaikan - Xintiangouan
+                167 Ma:             -          -          -                 -           - Temaikan - Shaximioan
+        164.7 +/- 4 Ma:             -          -          -                 - Callovian - Shaximioan - Temaikan
+        161.2 +/- 4 Ma:             -          -          - Late Jurassic - Oxfordian - Suiningian
+                156 Ma:             -          -          -               -           - Suiningian - Heterian
+        155.7 +/- 4 Ma:             -          -          -               - Kimmeridgian - Heterian - Suiningian
+                152 Ma:             -          -          -               -              - Suiningian - Ohauan
+        150.8 +/- 4 Ma:             -          -          -               - Tithonian - Ohauan - Suiningian - Volgian
+                150 Ma:             -          -          -               -           - Suiningian - Volgian - Puaroan
+                149 Ma:             -          -          -               -           - Volgian - Puaroan - Penglaizhenian
+                146 Ma:             -          -          -               -           - Volgian - Puaroan - Penglaizhenian - Portlandian
+        145.5 +/- 4 Ma:             -          - Cretaceous - Early Cretaceous - Berriasian - Kochian - Neocomian - Coahulian - Mokoiwian - Portlandian - Volgian
+                142 Ma:             -          -            -                  -            - Coahulian - Mokoiwian - Kochian - Neocomian - Ryzanian
+        140.2 +/- 3 Ma:             -          -            -                  - Valanginian - Mokoiwian - Kochian - Neocomian - Ryzanian - Coahulian
+        136.4 +/- 2 Ma:             -          -            -                  - Hauterivian - Neocomian - Coahulian - Mokoiwian - Aritan
+        130 +/- 1.5 Ma:             -          -            -                  - Barremian - Mokoiwian - Aritan - Coahulian - Gallic
+                127 Ma:             -          -            -                  -           - Aritan - Mokoiwian - Gallic - Comanchean
+          125 +/- 1 Ma:             -          -            -                  - Aptian - Gallic - Comanchean - Mokoiwian - Miyakoan
+                119 Ma:             -          -            -                  -        - Comanchean - Gallic - Miyakoan - Korangian
+          112 +/- 1 Ma:             -          -            -                  - Albian - Comanchean - Miyakoan - Korangian - Gallic
+                110 Ma:             -          -            -                  -        - Comanchean - Miyakoan - Gallic - Urutawan
+                104 Ma:             -          -            -                  -        - Comanchean - Miyakoan - Gallic - Motuan
+       99.6 +/- 0.9 Ma:             -          -            - Late Cretaceous - Cenomanian - Ngaterian - Gallic - Miyakoan
+               96.6 Ma:             -          -            -                 -            - Gallic - Ngaterian - Gyliakian
+                 95 Ma:             -          -            -                 -            - Gallic - Gyliakian - Arowhanan
+       93.5 +/- 0.8 Ma:             -          -            -                 - Turonian - Gyliakian - Arowhanan - Gallic
+                 93 Ma:             -          -            -                 -          - Gyliakian - Gallic - Mangaotanean
+         89.3 +/- 1 Ma:             -          -            -                 - Coniacian - Mangaotanean - Urakawan - Senonian
+                 87 Ma:             -          -            -                 -           - Urakawan - Senonian - Teratan
+       85.8 +/- 0.7 Ma:             -          -            -                 - Santonian - Senonian - Teratan - Urakawan
+       83.5 +/- 0.7 Ma:             -          -            -                 - Campanian - Senonian - Valdonnian - Urakawan
+               77.1 Ma:             -          -            -                 -           - Valdonnian - Senonian - Hetonian
+                 77 Ma:             -          -            -                 -           - Senonian - Hetonian - Fuvelian
+       70.6 +/- 0.6 Ma:             -          -            -                 - Maastrichtian - Hetonian - Begudian - Senonian
+                 68 Ma:             -          -            -                 -               - Hetonian - Senonian - Rognacian
+       65.5 +/- 0.3 Ma:             - Cenozoic - Paleogene - Paleocene - Early Paleocene - Danian - Teurian - Tertiary - Puercan
+               62.5 Ma:             -          -           -           -                 -        - Tertiary - Teurian - Torrejonian
+       61.7 +/- 0.2 Ma:             -          -           -           - Middle Paleocene - Selandian - Torrejonian - Tertiary - Teurian - Wangerripian
+               61.5 Ma:             -          -           -           -                  -           - Torrejonian - Tertiary - Teurian - Wangerripian - Ynezian
+               60.5 Ma:             -          -           -           -                  -           - Tertiary - Teurian - Wangerripian - Ynezian - Tiffanian
+       58.7 +/- 0.2 Ma:             -          -           -           - Late Paleocene - Thanetian - Wangerripian - Ynezian - Tiffanian - Tertiary - Teurian
+               56.5 Ma:             -          -           -           -                -           - Ynezian - Tiffanian - Tertiary - Wangerripian - Waipawan
+                 56 Ma:             -          -           -           -                -           - Ynezian - Tertiary - Wangerripian - Waipawan - Clarkforkian
+       55.8 +/- 0.2 Ma:             -          -           - Eocene - Early Eocene - Ypresian - Clarkforkian - Bulitian - Tertiary - Wangerripian - Waipawan
+               55.5 Ma:             -          -           -        -              -          - Bulitian - Tertiary - Wangerripian - Waipawan - Wasatchian
+                 53 Ma:             -          -           -        -              -          - Tertiary - Wangerripian - Waipawan - Wasatchian - Penutian
+                 52 Ma:             -          -           -        -              -          - Tertiary - Wasatchian - Penutian - Mangaorapan - Johannian
+                 51 Ma:             -          -           -        -              -          - Tertiary - Wasatchian - Mangaorapan - Johannian - Ulatisian
+               50.5 Ma:             -          -           -        -              -          - Tertiary - Mangaorapan - Johannian - Ulatisian - Bridgerian
+                 50 Ma:             -          -           -        -              -          - Tertiary - Johannian - Ulatisian - Bridgerian - Heretaungan
+       48.6 +/- 0.2 Ma:             -          -           -        - Middle Eocene - Lutetian - Ulatisian - Bridgerian - Heretaungan - Tertiary - Johannian
+                 48 Ma:             -          -           -        -               -          - Bridgerian - Heretaungan - Tertiary - Johannian - Narizian
+                 47 Ma:             -          -           -        -               -          - Bridgerian - Tertiary - Johannian - Narizian - Porangan
+               45.4 Ma:             -          -           -        -               -          - Tertiary - Johannian - Narizian - Porangan - Uintan
+                 44 Ma:             -          -           -        -               -          - Tertiary - Johannian - Narizian - Uintan - Bortonian
+       40.4 +/- 0.2 Ma:             -          -           -        -               - Bartonian - Tertiary - Narizian - Uintan - Bortonian - Johannian
+                 40 Ma:             -          -           -        -               -           - Tertiary - Narizian - Johannian - Kiaitan - Duchesnean
+       37.2 +/- 0.1 Ma:             -          -           -        - Late Eocene - Priabonian - Narizian - Duchesnean - Tertiary - Johannian
+                 37 Ma:             -          -           -        -             -            - Narizian - Tertiary - Johannian - Chadronian
+                 36 Ma:             -          -           -        -             -            - Tertiary - Narizian - Chadronian - Aldingian
+                 35 Ma:             -          -           -        -             -            - Tertiary - Chadronian - Aldingian - Refugian
+       33.9 +/- 0.1 Ma:             -          -           - Oligocene - Early Oligocene - Rupelian - Refugian - Tertiary - Chadronian - Whaingaroan - Aldingian
+               33.5 Ma:             -          -           -           -                 -          - Aldingian - Whaingaroan - Tertiary - Orellan - Zemorrian
+                 32 Ma:             -          -           -           -                 -          - Whaingaroan - Tertiary - Zemorrian - Whitneyan
+               30.5 Ma:             -          -           -           -                 -          - Whaingaroan - Tertiary - Zemorrian - Arikareean
+                 30 Ma:             -          -           -           -                 -          - Whaingaroan - Tertiary - Zemorrian - Arikareean - Janjukian
+       28.4 +/- 0.1 Ma:             -          -           -           - Late Oligocene - Chattian - Zemorrian - Arikareean - Janjukian - Whaingaroan - Tertiary
+                 28 Ma:             -          -           -           -                -          - Arikareean - Janjukian - Tertiary - Zemorrian - Duntroonian
+               27.5 Ma:             -          -           -           -                -          - Arikareean - Tertiary - Zemorrian - Duntroonian - Longfordian
+                 27 Ma:             -          -           -           -                -          - Arikareean - Tertiary - Zemorrian - Longfordian - Waitakian
+     23.03 +/- 0.05 Ma:             -          - Neogene - Miocene - Early Miocene - Aquitanian - Otaian - Tertiary - Zemorrian - Arikareean - Longfordian
+                 22 Ma:             -          -         -         -               -            - Tertiary - Arikareean - Longfordian - Otaian - Saucesian
+                 21 Ma:             -          -         -         -               -            - Arikareean - Longfordian - Tertiary - Saucesian - Hutchinsonian
+     20.43 +/- 0.05 Ma:             -          -         -         -               - Burdigalian - Arikareean - Longfordian - Saucesian - Hutchinsonian - Tertiary
+                 20 Ma:             -          -         -         -               -             - Arikareean - Longfordian - Saucesian - Tertiary - Awamoan
+                 19 Ma:             -          -         -         -               -             - Tertiary - Saucesian - Longfordian - Awamoan - Hemingfordian
+               18.2 Ma:             -          -         -         -               -             - Tertiary - Saucesian - Longfordian - Awamoan - Hemingfordian - Haranoyan
+               17.5 Ma:             -          -         -         -               -             - Tertiary - Saucesian - Longfordian - Hemingfordian - Haranoyan - Altonian
+               16.5 Ma:             -          -         -         -               -             - Tertiary - Hemingfordian - Haranoyan - Batesfordian - Relizian - Cliffdenian
+     15.97 +/- 0.05 Ma:             -          -         -         - Middle Miocene - Langhian - Batesfordian - Relizian - Cliffdenian - Tertiary - Tozawan - Hemingfordian
+               15.5 Ma:             -          -         -         -                -          - Tertiary - Tozawan - Cliffdenian - Balcombian - Luisian - Barstovian
+                 15 Ma:             -          -         -         -                -          - Tozawan - Tertiary - Luisian - Barstovian - Lillburnian - Bairnsdalian
+     13.65 +/- 0.05 Ma:             -          -         -         -                - Serravallian - Tertiary - Luisian - Barstovian - Lillburnian - Bairnsdalian - Tozawan
+               13.5 Ma:             -          -         -         -                -              - Barstovian - Lillburnian - Bairnsdalian - Tertiary - Kaburan - Mohnian
+               11.8 Ma:             -          -         -         -                -              - Lillburnian - Bairnsdalian - Tertiary - Kaburan - Mohnian - Clarendonian
+   11.608 +/- 0.005 Ma:             -          -         -         - Late Miocene - Tortonian - Bairnsdalian - Kaburan - Mohnian - Clarendonian - Tertiary - Lillburnian
+               11.5 Ma:             -          -         -         -              -           - Kaburan - Mohnian - Clarendonian - Tertiary - Bairnsdalian - Waiauan
+               11.1 Ma:             -          -         -         -              -           - Mohnian - Clarendonian - Tertiary - Bairnsdalian - Waiauan - Fujian
+               10.5 Ma:             -          -         -         -              -           - Clarendonian - Tertiary - Mohnian - Waiauan - Fujian - Mitchellian
+                 10 Ma:             -          -         -         -              -           - Clarendonian - Tertiary - Mohnian - Fujian - Mitchellian - Tongaporutuan
+                9.5 Ma:             -          -         -         -              -           - Clarendonian - Tertiary - Mohnian - Mitchellian - Tongaporutuan - Yuian
+                  9 Ma:             -          -         -         -              -           - Tertiary - Mohnian - Mitchellian - Tongaporutuan - Yuian - Hemphillian
+                7.5 Ma:             -          -         -         -              -           - Tertiary - Mitchellian - Tongaporutuan - Yuian - Hemphillian - Delmontian
+    7.246 +/- 0.005 Ma:             -          -         -         -              - Messinian - Mitchellian - Tongaporutuan - Yuian - Hemphillian - Delmontian - Tertiary
+                  6 Ma:             -          -         -         -              -           - Mitchellian - Yuian - Hemphillian - Delmontian - Tertiary - Kapitean
+    5.332 +/- 0.005 Ma:             -          -         - Pliocene - Early Pliocene - Zanclean - Hemphillian - Delmontian - Kapitean - Tertiary - Mitchellian - Yuian
+                  5 Ma:             -          -         -          -                -          - Delmontian - Kapitean - Tertiary - Yuian - Hemphillian - Cheltenhamian
+                4.8 Ma:             -          -         -          -                -          - Delmontian - Tertiary - Yuian - Hemphillian - Cheltenhamian - Opoitian
+               4.75 Ma:             -          -         -          -                -          - Tertiary - Yuian - Delmontian - Cheltenhamian - Opoitian - Blancan
+                4.3 Ma:             -          -         -          -                -          - Tertiary - Yuian - Delmontian - Opoitian - Blancan - Kalimnan
+      3.6 +/- 0.005 Ma:             -          -         -          - Late Pliocene - Piacenzian - Blancan - Kalimnan - Totomian - Waipipian - Delmontian - Tertiary
+                3.4 Ma:             -          -         -          -               -            - Blancan - Totomian - Waipipian - Delmontian - Tertiary - Yatalan
+                  3 Ma:             -          -         -          -               -            - Blancan - Waipipian - Delmontian - Tertiary - Yatalan - Suchian
+                2.9 Ma:             -          -         -          -               -            - Waipipian - Tertiary - Blancan - Yatalan - Suchian - Repettian
+                2.6 Ma:             -          -         -          -               -            - Tertiary - Blancan - Yatalan - Suchian - Repettian - Mangapanian
+    2.588 +/- 0.005 Ma:             -          -         -          -               - Gelasian - Tertiary - Yatalan - Suchian - Repettian - Mangapanian - Blancan
+                2.2 Ma:             -          -         -          -               -          - Tertiary - Yatalan - Suchian - Mangapanian - Blancan - Venturian
+               1.96 Ma:             -          -         -          -               -          - Tertiary - Suchian - Blancan - Venturian - Nukumaruan
+                1.9 Ma:             -          -         -          -               -          - Tertiary - Blancan - Nukumaruan - Kechienjian - Wheelerian
+    1.806 +/- 0.005 Ma:             -          -         - Pleistocene - Early Pleistocene - Wheelerian - Werrikooian - Nukumaruan - Irvingtonian - Kechienjian - Pleistogene - Quaternary
+                1.5 Ma:             -          -         -             -                   - Werrikooian - Nukumaruan - Irvingtonian - Wheelerian - Pleistogene - Quaternary - Yuzanjian
+                1.1 Ma:             -          -         -             -                   - Wheelerian - Irvingtonian - Werrikooian - Pleistogene - Quaternary - Yuzanjian - Okehuan - Castlecliffian
+    0.781 +/- 0.005 Ma:             -          -         -             - Middle Pleistocene - Wheelerian - Pleistogene - Quaternary - Yuzanjian - Okehuan - Castlecliffian - Sicilian - Irvingtonian
+               0.48 Ma:             -          -         -             -                    - Wheelerian - Pleistogene - Quaternary - Castlecliffian - Sicilian - Irvingtonian - Putikian
+                0.3 Ma:             -          -         -             -                    - Pleistogene - Quaternary - Castlecliffian - Sicilian - Wheelerian - Putikian - Rancholabrean
+               0.26 Ma:             -          -         -             -                    - Pleistogene - Quaternary - Castlecliffian - Wheelerian - Putikian - Rancholabrean - Tyrrhenian
+    0.126 +/- 0.005 Ma:             -          -         -             - Late Pleistocene - Pleistogene - Quaternary - Castlecliffian - Putikian - Rancholabrean - Tyrrhenian - Wheelerian
+0.01143 +/- 0.00013 Ma:             -          -         - Holocene - Quaternary - Pleistogene
+ 

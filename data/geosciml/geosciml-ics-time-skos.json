@@ -1,0 +1,1637 @@
+[
+    {
+        "name": "Phanerozoic",
+        "type": "eon",
+        "narrow": [
+           "Cenozoic",
+           "Mesozoic",
+           "Paleozoic"
+        ],
+        "broad": []
+    },
+    {
+        "name": "Cenozoic",
+        "type": "era",
+        "parent": [
+           "Phanerozoic"
+        ]
+    },
+    {
+        "name": "Quaternary",
+        "type": "period",
+        "narrow": [
+           "Holocene",
+           "Meghalayan",
+           "Northgrippian",
+           "Greenlandian",
+           "Pleistocene",
+           "UpperPleistocene",
+           "MiddlePleistocene",
+           "Calabrian",
+           "Gelasian"
+        ],
+        "broad": [
+           "Cenozoic"
+        ]
+    },
+    {
+        "name": "Holocene",
+        "type": "epoch",
+        "narrow": [
+           "Meghalayan",
+           "Northgrippian",
+           "Greenlandian"
+        ],
+        "broad": [
+           "Quaternary"
+        ]
+    },
+    {
+        "name": "Meghalayan",
+        "type": "age",
+        "broad": [
+           "Holocene"
+        ]
+    },
+    {
+        "name": "Northgrippian",
+        "type": "age",
+        "broad": [
+           "Holocene"
+        ]
+    },
+    {
+        "name": "Greenlandian",
+        "type": "age",
+        "broad": [
+           "Holocene"
+        ]
+    },
+    {
+        "name": "Pleistocene",
+        "type": "epoch",
+        "narrow": [
+           "UpperPleistocene",
+           "MiddlePleistocene",
+           "Calabrian",
+           "Gelasian"
+        ],
+        "broad": [
+           "Quaternary"
+        ]
+    },
+    {
+        "name": "Stage 4",
+        "type": "age",
+        "broad": [
+           "Pleistocene"
+        ]
+    },
+    {
+        "name": "Chibanian",
+        "type": "age",
+        "broad": [
+           "Pleistocene"
+        ]
+    },
+    {
+        "name": "Calabrian",
+        "type": "age",
+        "broad": [
+           "Pleistocene"
+        ]
+    },
+    {
+        "name": "Gelasian",
+        "type": "age",
+        "broad": [
+           "Pleistocene"
+        ]
+    },
+    {
+        "name": "Neogene",
+        "type": "period",
+        "narrow": [
+           "Pliocene",
+           "Piacenzian",
+           "Zanclean",
+           "Miocene",
+           "Messinian",
+           "Tortonian",
+           "Serravallian",
+           "Langhian",
+           "Burdigalian",
+           "Aquitanian"
+        ],
+        "broad": [
+           "Cenozoic"
+        ]
+    },
+    {
+        "name": "Pliocene",
+        "type": "epoch",
+        "narrow": [
+           "Piacenzian",
+           "Zanclean"
+        ],
+        "broad": [
+           "Neogene"
+        ]
+    },
+    {
+        "name": "Piacenzian",
+        "type": "age",
+        "broad": [
+           "Pliocene"
+        ]
+    },
+    {
+        "name": "Zanclean",
+        "type": "age",
+        "broad": [
+           "Pliocene"
+        ]
+    },
+    {
+        "name": "Miocene",
+        "type": "epoch",
+        "narrow": [
+           "Messinian",
+           "Tortonian",
+           "Serravallian",
+           "Langhian",
+           "Burdigalian",
+           "Aquitanian"
+        ],
+        "broad": [
+           "Neogene"
+        ]
+    },
+    {
+        "name": "Messinian",
+        "type": "age",
+        "broad": [
+           "Miocene"
+        ]
+    },
+    {
+        "name": "Tortonian",
+        "type": "age",
+        "broad": [
+           "Miocene"
+        ]
+    },
+    {
+        "name": "Serravallian",
+        "type": "age",
+        "broad": [
+           "Miocene"
+        ]
+    },
+    {
+        "name": "Langhian",
+        "type": "age",
+        "broad": [
+           "Miocene"
+        ]
+    },
+    {
+        "name": "Burdigalian",
+        "type": "age",
+        "broad": [
+           "Miocene"
+        ]
+    },
+    {
+        "name": "Aquitanian",
+        "type": "age",
+        "broad": [
+           "Miocene"
+        ]
+    },
+    {
+        "name": "Paleogene",
+        "type": "period",
+        "narrow": [
+           "Oligocene",
+           "Chattian",
+           "Rupelian",
+           "Eocene",
+           "Priabonian",
+           "Bartonian",
+           "Lutetian",
+           "Ypresian",
+           "Paleocene",
+           "Thanetian",
+           "Selandian",
+           "Danian"
+        ],
+        "broad": [
+           "Cenozoic"
+        ]
+    },
+    {
+        "name": "Oligocene",
+        "type": "epoch",
+        "narrow": [
+           "Chattian",
+           "Rupelian"
+        ],
+        "broad": [
+           "Paleogene"
+        ]
+    },
+    {
+        "name": "Chattian",
+        "type": "age",
+        "broad": [
+           "Oligocene"
+        ]
+    },
+    {
+        "name": "Rupelian",
+        "type": "age",
+        "broad": [
+           "Oligocene"
+        ]
+    },
+    {
+        "name": "Eocene",
+        "type": "epoch",
+        "narrow": [
+           "Priabonian",
+           "Bartonian",
+           "Lutetian",
+           "Ypresian"
+        ],
+        "broad": [
+           "Paleogene"
+        ]
+    },
+    {
+        "name": "Priabonian",
+        "type": "age",
+        "broad": [
+           "Eocene"
+        ]
+    },
+    {
+        "name": "Bartonian",
+        "type": "age",
+        "broad": [
+           "Eocene"
+        ]
+    },
+    {
+        "name": "Lutetian",
+        "fill": "#FFBD98",
+        "type": "age",
+        "broad": [
+           "Eocene"
+        ]
+    },
+    {
+        "name": "Ypresian",
+        "type": "age",
+        "broad": [
+           "Eocene"
+        ]
+    },
+    {
+        "name": "Paleocene",
+        "type": "epoch",
+        "narrow": [
+           "Thanetian",
+           "Selandian",
+           "Danian"
+        ],
+        "broad": [
+           "Paleogene"
+        ]
+    },
+    {
+        "name": "Thanetian",
+        "type": "age",
+        "broad": [
+           "Paleocene"
+        ]
+    },
+    {
+        "name": "Selandian",
+        "type": "age",
+        "broad": [
+           "Paleocene"
+        ]
+    },
+    {
+        "name": "Danian",
+        "type": "age",
+        "broad": [
+           "Paleocene"
+        ]
+    },
+    {
+        "name": "Mesozoic",
+        "type": "era",
+        "narrow": [
+           "Cretaceous",
+           "Jurassic",
+           "Triassic"
+        ],
+        "broad": [
+           "Phanerozoic"
+        ]
+    },
+    {
+        "name": "Cretaceous",
+        "type": "period",
+        "narrow": [
+           "UpperCretaceous",
+           "Maastrichtian",
+           "Campanian",
+           "Santonian",
+           "Coniacian",
+           "Turonian",
+           "Cenomanian",
+           "LowerCretaceous",
+           "Albian",
+           "Aptian",
+           "Barremian",
+           "Hauterivian",
+           "Valanginian",
+           "Berriasian"
+        ],
+        "broad": [
+           "Mesozoic"
+        ]
+    },
+    {
+        "name": "Upper",
+        "type": "epoch",
+        "narrow": [
+           "Maastrichtian",
+           "Campanian",
+           "Santonian",
+           "Coniacian",
+           "Turonian",
+           "Cenomanian"
+        ],
+        "broad": [
+           "Cretaceous"
+        ]
+    },
+    {
+        "name": "Maastrichtian",
+        "type": "age",
+        "broad": [
+           "UpperCretaceous"
+        ]
+    },
+    {
+        "name": "Campanian",
+        "type": "age",
+        "broad": [
+           "UpperCretaceous"
+        ]
+    },
+    {
+        "name": "Santonian",
+        "type": "age",
+        "broad": [
+           "UpperCretaceous"
+        ]
+    },
+    {
+        "name": "Coniacian",
+        "type": "age",
+        "broad": [
+           "UpperCretaceous"
+        ]
+    },
+    {
+        "name": "Turonian",
+        "type": "age",
+        "broad": [
+           "UpperCretaceous"
+        ]
+    },
+    {
+        "name": "Cenomanian",
+        "type": "age",
+        "broad": [
+           "UpperCretaceous"
+        ]
+    },
+    {
+        "name": "Lower",
+        "type": "epoch",
+        "narrow": [
+           "Albian",
+           "Aptian",
+           "Barremian",
+           "Hauterivian",
+           "Valanginian",
+           "Berriasian"
+        ],
+        "broad": [
+           "Cretaceous"
+        ]
+    },
+    {
+        "name": "Albian",
+        "type": "age",
+        "broad": [
+           "LowerCretaceous"
+        ]
+    },
+    {
+        "name": "Aptian",
+        "type": "age",
+        "broad": [
+           "LowerCretaceous"
+        ]
+    },
+    {
+        "name": "Barremian",
+        "type": "age",
+        "broad": [
+           "LowerCretaceous"
+        ]
+    },
+    {
+        "name": "Hauterivian",
+        "type": "age",
+        "broad": [
+           "LowerCretaceous"
+        ]
+    },
+    {
+        "name": "Valanginian",
+        "type": "age",
+        "broad": [
+           "LowerCretaceous"
+        ]
+    },
+    {
+        "name": "Berriasian",
+        "type": "age",
+        "broad": [
+           "LowerCretaceous"
+        ]
+    },
+    {
+        "name": "Jurassic",
+        "type": "period",
+        "narrow": [
+           "UpperJurassic",
+           "Tithonian",
+           "Kimmeridgian",
+           "Oxfordian",
+           "MiddleJurassic",
+           "Callovian",
+           "Bathonian",
+           "Bajocian",
+           "Aalenian",
+           "LowerJurassic",
+           "Toarcian",
+           "Pliensbachian",
+           "Sinemurian",
+           "Hettangian"
+        ],
+        "broad": [
+           "Mesozoic"
+        ]
+    },
+    {
+        "name": "Upper",
+        "type": "epoch",
+        "narrow": [
+           "Tithonian",
+           "Kimmeridgian",
+           "Oxfordian"
+        ],
+        "broad": [
+           "Jurassic"
+        ]
+    },
+    {
+        "name": "Tithonian",
+        "type": "age",
+        "broad": [
+           "UpperJurassic"
+        ]
+    },
+    {
+        "name": "Kimmeridgian",
+        "type": "age",
+        "broad": [
+           "UpperJurassic"
+        ]
+    },
+    {
+        "name": "Oxfordian",
+        "type": "age",
+        "broad": [
+           "UpperJurassic"
+        ]
+    },
+    {
+        "name": "Middle",
+        "type": "epoch",
+        "narrow": [
+           "Callovian",
+           "Bathonian",
+           "Bajocian",
+           "Aalenian"
+        ],
+        "broad": [
+           "Jurassic"
+        ]
+    },
+    {
+        "name": "Callovian",
+        "type": "age",
+        "broad": [
+           "MiddleJurassic"
+        ]
+    },
+    {
+        "name": "Bathonian",
+        "type": "age",
+        "broad": [
+           "MiddleJurassic"
+        ]
+    },
+    {
+        "name": "Bajocian",
+        "type": "age",
+        "broad": [
+           "MiddleJurassic"
+        ]
+    },
+    {
+        "name": "Aalenian",
+        "type": "age",
+        "broad": [
+           "MiddleJurassic"
+        ]
+    },
+    {
+        "name": "Lower",
+        "type": "epoch",
+        "narrow": [
+           "Toarcian",
+           "Pliensbachian",
+           "Sinemurian",
+           "Hettangian"
+        ],
+        "broad": [
+           "Jurassic"
+        ]
+    },
+    {
+        "name": "Toarcian",
+        "type": "age",
+        "broad": [
+           "LowerJurassic"
+        ]
+    },
+    {
+        "name": "Pliensbachian",
+        "type": "age",
+        "broad": [
+           "LowerJurassic"
+        ]
+    },
+    {
+        "name": "Sinemurian",
+        "type": "age",
+        "broad": [
+           "LowerJurassic"
+        ]
+    },
+    {
+        "name": "Hettangian",
+        "type": "age",
+        "broad": [
+           "LowerJurassic"
+        ]
+    },
+    {
+        "name": "Triassic",
+        "type": "period",
+        "narrow": [
+           "UpperTriassic",
+           "Rhaetian",
+           "Norian",
+           "Carnian",
+           "MiddleTriassic",
+           "Ladinian",
+           "Anisian",
+           "LowerTriassic",
+           "Olenekian",
+           "Induan"
+        ],
+        "broad": [
+           "Mesozoic"
+        ]
+    },
+    {
+        "name": "Upper",
+        "type": "epoch",
+        "narrow": [
+           "Rhaetian",
+           "Norian",
+           "Carnian"
+        ],
+        "broad": [
+           "Triassic"
+        ]
+    },
+    {
+        "name": "Rhaetian",
+        "type": "age",
+        "broad": [
+           "UpperTriassic"
+        ]
+    },
+    {
+        "name": "Norian",
+        "type": "age",
+        "broad": [
+           "UpperTriassic"
+        ]
+    },
+    {
+        "name": "Carnian",
+        "type": "age",
+        "broad": [
+           "UpperTriassic"
+        ]
+    },
+    {
+        "name": "Middle",
+        "type": "epoch",
+        "narrow": [
+           "Ladinian",
+           "Anisian"
+        ],
+        "broad": [
+           "Triassic"
+        ]
+    },
+    {
+        "name": "Ladinian",
+        "type": "age",
+        "broad": [
+           "MiddleTriassic"
+        ]
+    },
+    {
+        "name": "Anisian",
+        "type": "age",
+        "broad": [
+           "MiddleTriassic"
+        ]
+    },
+    {
+        "name": "Lower",
+        "type": "epoch",
+        "narrow": [
+           "Olenekian",
+           "Induan"
+        ],
+        "broad": [
+           "Triassic"
+        ]
+    },
+    {
+        "name": "Olenekian",
+        "type": "age",
+        "broad": [
+           "LowerTriassic"
+        ]
+    },
+    {
+        "name": "Induan",
+        "type": "age",
+        "broad": [
+           "LowerTriassic"
+        ]
+    },
+    {
+        "name": "Paleozoic",
+        "type": "era",
+        "narrow": [
+           "Permian",
+           "Carboniferous",
+           "Devonian",
+           "Silurian",
+           "Ordovician",
+           "Cambrian"
+        ],
+        "broad": [
+           "Phanerozoic"
+        ]
+    },
+    {
+        "name": "Permian",
+        "type": "period",
+        "narrow": [
+           "Lopingian",
+           "Changhsingian",
+           "Wuchiapingian",
+           "Guadalupian",
+           "Capitanian",
+           "Wordian",
+           "Roadian",
+           "Cisuralian",
+           "Kungurian",
+           "Artinskian",
+           "Sakmarian",
+           "Asselian"
+        ],
+        "broad": [
+           "Paleozoic"
+        ]
+    },
+    {
+        "name": "Lopingian",
+        "type": "epoch",
+        "narrow": [
+           "Changhsingian",
+           "Wuchiapingian"
+        ],
+        "broad": [
+           "Permian"
+        ]
+    },
+    {
+        "name": "Changhsingian",
+        "type": "age",
+        "broad": [
+           "Lopingian"
+        ]
+    },
+    {
+        "name": "Wuchiapingian",
+        "type": "age",
+        "broad": [
+           "Lopingian"
+        ]
+    },
+    {
+        "name": "Guadalupian",
+        "type": "epoch",
+        "narrow": [
+           "Capitanian",
+           "Wordian",
+           "Roadian"
+        ],
+        "broad": [
+           "Permian"
+        ]
+    },
+    {
+        "name": "Capitanian",
+        "type": "age",
+        "broad": [
+           "Guadalupian"
+        ]
+    },
+    {
+        "name": "Wordian",
+        "type": "age",
+        "broad": [
+           "Guadalupian"
+        ]
+    },
+    {
+        "name": "Roadian",
+        "type": "age",
+        "broad": [
+           "Guadalupian"
+        ]
+    },
+    {
+        "name": "Cisuralian",
+        "type": "epoch",
+        "narrow": [
+           "Kungurian",
+           "Artinskian",
+           "Sakmarian",
+           "Asselian"
+        ],
+        "broad": [
+           "Permian"
+        ]
+    },
+    {
+        "name": "Kungurian",
+        "type": "age",
+        "broad": [
+           "Cisuralian"
+        ]
+    },
+    {
+        "name": "Artinskian",
+        "type": "age",
+        "broad": [
+           "Cisuralian"
+        ]
+    },
+    {
+        "name": "Sakmarian",
+        "type": "age",
+        "broad": [
+           "Cisuralian"
+        ]
+    },
+    {
+        "name": "Asselian",
+        "type": "age",
+        "broad": [
+           "Cisuralian"
+        ]
+    },
+    {
+        "name": "Carboniferous",
+        "type": "period",
+        "narrow": [
+           "Pennsylvanian",
+           "Mississippian"
+        ],
+        "broad": [
+           "Paleozoic"
+        ]
+    },
+    {
+        "name": "Pennsylvanian",
+        "type": "epoch",
+        "narrow": [
+           "Gzhelian",
+           "Kasimovian",
+           "Moscovian",
+           "Bashkirian"
+        ],
+        "broad": [
+           "Carboniferous"
+        ]
+    },
+    {
+        "name": "Upper",
+        "type": "epoch sub-epoch",
+        "narrow": [
+           "Gzhelian",
+           "Kasimovian"
+        ],
+        "broad": [
+           "Pennsylvanian"
+        ]
+    },
+    {
+        "name": "Gzhelian",
+        "type": "age",
+        "broad": [
+           "UpperPennsylvanian"
+        ]
+    },
+    {
+        "name": "Kasimovian",
+        "type": "age",
+        "broad": [
+           "UpperPennsylvanian"
+        ]
+    },
+    {
+        "name": "Middle",
+        "type": "epoch sub-epoch",
+        "narrow": [
+           "Moscovian"
+        ],
+        "broad": [
+           "Pennsylvanian"
+        ]
+    },
+    {
+        "name": "Moscovian",
+        "type": "age",
+        "broad": [
+           "MiddlePennsylvanian"
+        ]
+    },
+    {
+        "name": "Lower",
+        "type": "epoch sub-epoch",
+        "narrow": [
+           "Bashkirian"
+        ],
+        "broad": [
+           "Pennsylvanian"
+        ]
+    },
+    {
+        "name": "Bashkirian",
+        "type": "age",
+        "broad": [
+           "LowerPennsylvanian"
+        ]
+    },
+    {
+        "name": "Mississippian",
+        "type": "epoch",
+        "narrow": [
+           "Serpukhovian",
+           "Visean",
+           "Tournaisian"
+        ],
+        "broad": [
+           "Carboniferous"
+        ]
+    },
+    {
+        "name": "Upper",
+        "type": "epoch sub-epoch",
+        "narrow": [
+           "Serpukhovian"
+        ],
+        "broad": [
+           "Mississippian"
+        ]
+    },
+    {
+        "name": "Serpukhovian",
+        "type": "age",
+        "broad": [
+           "UpperMississippian"
+        ]
+    },
+    {
+        "name": "Middle",
+        "type": "epoch sub-epoch",
+        "narrow": [
+           "Visean"
+        ],
+        "broad": [
+           "Mississippian"
+        ]
+    },
+    {
+        "name": "Visean",
+        "type": "age",
+        "broad": [
+           "MiddleMississippian"
+        ]
+    },
+    {
+        "name": "Lower",
+        "type": "epoch sub-epoch",
+        "narrow": [
+           "Tournaisian"
+        ],
+        "broad": [
+           "Mississippian"
+        ]
+    },
+    {
+        "name": "Tournaisian",
+        "type": "age",
+        "broad": [
+           "LowerMississippian"
+        ]
+    },
+    {
+        "name": "Devonian",
+        "type": "period",
+        "narrow": [
+           "UpperDevonian",
+           "Famennian",
+           "Frasnian",
+           "MiddleDevonian",
+           "Givetian",
+           "Eifelian",
+           "LowerDevonian",
+           "Emsian",
+           "Pragian",
+           "Lochkovian"
+        ],
+        "broad": [
+           "Paleozoic"
+        ]
+    },
+    {
+        "name": "Upper",
+        "type": "epoch",
+        "narrow": [
+           "Famennian",
+           "Frasnian"
+        ],
+        "broad": [
+           "Devonian"
+        ]
+    },
+    {
+        "name": "Famennian",
+        "type": "age",
+        "broad": [
+           "UpperDevonian"
+        ]
+    },
+    {
+        "name": "Frasnian",
+        "type": "age",
+        "broad": [
+           "UpperDevonian"
+        ]
+    },
+    {
+        "name": "Middle",
+        "type": "epoch",
+        "narrow": [
+           "Givetian",
+           "Eifelian"
+        ],
+        "broad": [
+           "Devonian"
+        ]
+    },
+    {
+        "name": "Givetian",
+        "type": "age",
+        "broad": [
+           "MiddleDevonian"
+        ]
+    },
+    {
+        "name": "Eifelian",
+        "type": "age",
+        "broad": [
+           "MiddleDevonian"
+        ]
+    },
+    {
+        "name": "Lower",
+        "type": "epoch",
+        "narrow": [
+           "Emsian",
+           "Pragian",
+           "Lochkovian"
+        ],
+        "broad": [
+           "Devonian"
+        ]
+    },
+    {
+        "name": "Emsian",
+        "type": "age",
+        "broad": [
+           "LowerDevonian"
+        ]
+    },
+    {
+        "name": "Pragian",
+        "type": "age",
+        "broad": [
+           "LowerDevonian"
+        ]
+    },
+    {
+        "name": "Lochkovian",
+        "type": "age",
+        "broad": [
+           "LowerDevonian"
+        ]
+    },
+    {
+        "name": "Silurian",
+        "type": "period",
+        "narrow": [
+           "Pridoli",
+           "Pridoli-Null",
+           "Ludlow",
+           "Ludfordian",
+           "Gorstian",
+           "Wenlock",
+           "Homerian",
+           "Sheinwoodian",
+           "Llandovery",
+           "Telychian",
+           "Aeronian",
+           "Rhuddanian"
+        ],
+        "broad": [
+           "Paleozoic"
+        ]
+    },
+    {
+        "name": "Pridoli",
+        "type": "epoch",
+        "narrow": [
+           "Pridoli-Null"
+        ],
+        "broad": [
+           "Silurian"
+        ]
+    },
+    {
+        "name": "Pridoli-Null",
+        "type": "age",
+        "broad": [
+           "Pridoli"
+        ]
+    },
+    {
+        "name": "Ludlow",
+        "type": "epoch",
+        "narrow": [
+           "Ludfordian",
+           "Gorstian"
+        ],
+        "broad": [
+           "Silurian"
+        ]
+    },
+    {
+        "name": "Ludfordian",
+        "type": "age",
+        "broad": [
+           "Ludlow"
+        ]
+    },
+    {
+        "name": "Gorstian",
+        "type": "age",
+        "broad": [
+           "Ludlow"
+        ]
+    },
+    {
+        "name": "Wenlock",
+        "type": "epoch",
+        "narrow": [
+           "Homerian",
+           "Sheinwoodian"
+        ],
+        "broad": [
+           "Silurian"
+        ]
+    },
+    {
+        "name": "Homerian",
+        "type": "age",
+        "broad": [
+           "Wenlock"
+        ]
+    },
+    {
+        "name": "Sheinwoodian",
+        "type": "age",
+        "broad": [
+           "Wenlock"
+        ]
+    },
+    {
+        "name": "Llandovery",
+        "type": "epoch",
+        "narrow": [
+           "Telychian",
+           "Aeronian",
+           "Rhuddanian"
+        ],
+        "broad": [
+           "Silurian"
+        ]
+    },
+    {
+        "name": "Telychian",
+        "type": "age",
+        "broad": [
+           "Llandovery"
+        ]
+    },
+    {
+        "name": "Aeronian",
+        "type": "age",
+        "broad": [
+           "Llandovery"
+        ]
+    },
+    {
+        "name": "Rhuddanian",
+        "type": "age",
+        "broad": [
+           "Llandovery"
+        ]
+    },
+    {
+        "name": "Ordovician",
+        "type": "period",
+        "narrow": [
+           "UpperOrdovician",
+           "Hirnantian",
+           "Katian",
+           "Sandbian",
+           "MiddleOrdovician",
+           "Darriwilian",
+           "Dapingian",
+           "LowerOrdovician",
+           "Floian",
+           "Tremadocian"
+        ],
+        "broad": [
+           "Paleozoic"
+        ]
+    },
+    {
+        "name": "Upper",
+        "type": "epoch",
+        "narrow": [
+           "Hirnantian",
+           "Katian",
+           "Sandbian"
+        ],
+        "broad": [
+           "Ordovician"
+        ]
+    },
+    {
+        "name": "Hirnantian",
+        "type": "age",
+        "broad": [
+           "UpperOrdovician"
+        ]
+    },
+    {
+        "name": "Katian",
+        "type": "age",
+        "broad": [
+           "UpperOrdovician"
+        ]
+    },
+    {
+        "name": "Sandbian",
+        "type": "age",
+        "broad": [
+           "UpperOrdovician"
+        ]
+    },
+    {
+        "name": "Middle",
+        "type": "epoch",
+        "narrow": [
+           "Darriwilian",
+           "Dapingian"
+        ],
+        "broad": [
+           "Ordovician"
+        ]
+    },
+    {
+        "name": "Darriwilian",
+        "type": "age",
+        "broad": [
+           "MiddleOrdovician"
+        ]
+    },
+    {
+        "name": "Dapingian",
+        "type": "age",
+        "broad": [
+           "MiddleOrdovician"
+        ]
+    },
+    {
+        "name": "Lower",
+        "type": "epoch",
+        "narrow": [
+           "Floian",
+           "Tremadocian"
+        ],
+        "broad": [
+           "Ordovician"
+        ]
+    },
+    {
+        "name": "Floian",
+        "type": "age",
+        "broad": [
+           "LowerOrdovician"
+        ]
+    },
+    {
+        "name": "Tremadocian",
+        "type": "age",
+        "broad": [
+           "LowerOrdovician"
+        ]
+    },
+    {
+        "name": "Cambrian",
+        "type": "period",
+        "narrow": [
+           "Furongian",
+           "CambrianStage10",
+           "Jiangshanian",
+           "Paibian",
+           "Miaolingian",
+           "Guzhangian",
+           "Drumian",
+           "Wuliuan",
+           "CambrianSeries2",
+           "CambrianStage4",
+           "CambrianStage3",
+           "Terreneuvian",
+           "CambrianStage2",
+           "Fortunian"
+        ],
+        "broad": [
+           "Paleozoic"
+        ]
+    },
+    {
+        "name": "Furongian",
+        "type": "epoch",
+        "narrow": [
+           "CambrianStage10",
+           "Jiangshanian",
+           "Paibian"
+        ],
+        "broad": [
+           "Cambrian"
+        ]
+    },
+    {
+        "id": "http://resource.geosciml.org/classifier/ics/ischart/CambrianStage10",
+        "name": "Stage 10",
+        "type": "age",
+        "broad": [
+           "Furongian"
+        ]
+    },
+    {
+        "name": "Jiangshanian",
+        "type": "age",
+        "broad": [
+           "Furongian"
+        ]
+    },
+    {
+        "name": "Paibian",
+        "type": "age",
+        "broad": [
+           "Furongian"
+        ]
+    },
+    {
+        "name": "Miaolingian",
+        "type": "epoch",
+        "narrow": [
+           "Guzhangian",
+           "Drumian",
+           "Wuliuan"
+        ],
+        "broad": [
+           "Cambrian"
+        ]
+    },
+    {
+        "name": "Guzhangian",
+        "type": "age",
+        "broad": [
+           "Miaolingian"
+        ]
+    },
+    {
+        "name": "Drumian",
+        "type": "age",
+        "broad": [
+           "Miaolingian"
+        ]
+    },
+    {
+        "name": "Wuliuan",
+        "type": "age",
+        "broad": [
+           "Miaolingian"
+        ]
+    },
+    {
+        "id": "http://resource.geosciml.org/classifier/ics/ischart/CambrianSeries2",
+        "name": "Series 2 ",
+        "type": "epoch",
+        "narrow": [
+           "CambrianStage4",
+           "CambrianStage3"
+        ],
+        "broad": [
+           "Cambrian"
+        ]
+    },
+    {
+        "id": "http://resource.geosciml.org/classifier/ics/ischart/CambrianStage4",
+        "name": "Stage 4",
+        "type": "age",
+        "broad": [
+           "CambrianSeries2"
+        ]
+    },
+    {
+        "id": "http://resource.geosciml.org/classifier/ics/ischart/CambrianStage3",
+        "name": "Stage 3",
+        "type": "age",
+        "broad": [
+           "CambrianSeries2"
+        ]
+    },
+    {
+        "name": "Terreneuvian",
+        "type": "epoch",
+        "narrow": [
+           "CambrianStage2",
+           "Fortunian"
+        ],
+        "broad": [
+           "Cambrian"
+        ]
+    },
+    {
+        "id": "http://resource.geosciml.org/classifier/ics/ischart/CambrianStage2",
+        "name": "Stage 2",
+        "type": "age",
+        "broad": [
+           "Terreneuvian"
+        ]
+    },
+    {
+        "name": "Fortunian",
+        "type": "age",
+        "broad": [
+           "Terreneuvian"
+        ]
+    },
+    {
+        "name": "Precambrian",
+        "type": "super-eon",
+        "broad": []
+    },
+    {
+        "name": "Proterozoic",
+        "type": "eon",
+        "narrow": [
+           "Neoproterozoic",
+           "Mesoproterozoic",
+           "Paleoproterozoic"
+        ],
+        "broad": []
+    },
+    {
+        "name": "Neo-proterozoic",
+        "type": "era",
+        "narrow": [
+           "Ediacaran",
+           "Cryogenian",
+           "Tonian"
+        ],
+        "broad": [
+           "Proterozoic"
+        ]
+    },
+    {
+        "name": "Ediacaran",
+        "type": "period",
+        "broad": [
+           "Neoproterozoic"
+        ]
+    },
+    {
+        "name": "Cryogenian",
+        "type": "period",
+        "broad": [
+           "Neoproterozoic"
+        ]
+    },
+    {
+        "name": "Tonian",
+        "type": "period",
+        "broad": [
+           "Neoproterozoic"
+        ]
+    },
+    {
+        "name": "Meso-proterozoic",
+        "type": "era",
+        "narrow": [
+           "Stenian",
+           "Ectasian",
+           "Calymmian"
+        ],
+        "broad": [
+           "Proterozoic"
+        ]
+    },
+    {
+        "name": "Stenian",
+        "type": "period",
+        "broad": [
+           "Mesoproterozoic"
+        ]
+    },
+    {
+        "name": "Ectasian",
+        "type": "period",
+        "broad": [
+           "Mesoproterozoic"
+        ]
+    },
+    {
+        "name": "Calymmian",
+        "type": "period",
+        "broad": [
+           "Mesoproterozoic"
+        ]
+    },
+    {
+        "name": "Paleo-proterozoic",
+        "type": "era",
+        "narrow": [
+           "Statherian",
+           "Orosirian",
+           "Rhyacian",
+           "Siderian"
+        ],
+        "broad": [
+           "Proterozoic"
+        ]
+    },
+    {
+        "name": "Statherian",
+        "type": "period",
+        "broad": [
+           "Paleoproterozoic"
+        ]
+    },
+    {
+        "name": "Orosirian",
+        "type": "period",
+        "broad": [
+           "Paleoproterozoic"
+        ]
+    },
+    {
+        "name": "Rhyacian",
+        "type": "period",
+        "broad": [
+           "Paleoproterozoic"
+        ]
+    },
+    {
+        "name": "Siderian",
+        "type": "period",
+        "broad": [
+           "Paleoproterozoic"
+        ]
+    },
+    {
+        "name": "Archean",
+        "type": "eon",
+        "narrow": [
+           "Neoarchean",
+           "Mesoarchean",
+           "Paleoarchean",
+           "Eoarchean"
+        ],
+        "broad": []
+    },
+    {
+        "name": "Neo-archean",
+        "type": "era",
+        "broad": [
+           "Archean"
+        ]
+    },
+    {
+        "name": "Meso-archean",
+        "type": "era",
+           "http://resource.geosciml.org/classifier/ics/ischart/Archean"
+        ]
+    },
+    {
+        "name": "Paleo-archean",
+        "type": "era",
+        "broad": [
+           "Archean"
+        ]
+    },
+    {
+        "name": "Eo-archean",
+        "type": "era",
+        "broad": [
+           "Archean"
+        ]
+    },
+    {
+        "name": "Hadean",
+        "type": "eon",
+        "broad": []
+    }
+]

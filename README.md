@@ -27,20 +27,16 @@ Edelstein S, Norton B (2023) Semantic Mapping of the Geologic Time Scale: A temp
 * Groom Q, Dillen M, Hardy H, Phillips S, Willemse L, Wu Z (2019) Improved standardization of transcribed digital specimen data. Database 2019. https://doi.org/10.1093/database/baz129  
 
 
+Contacts  
+Susan Edelstein   
 
-Contacts
-Susan Edelstein 
+Ben Norton  
+ben@geoapis.io  
 
-Ben Norton
-ben@geoapis.io
+In collaboration with the Paleo Data Working Group  
 
-In collaboration with the Paleo Data Working Group
 
 Standards
 Chronometric Age Vocabulary List of Terms https://chrono.tdwg.org/list/  
-  
-Darwin Core
-https://dwc.tdwg.org
-
-International Commission on Stratigraphy
-https://stratigraphy.org/
+Darwin Core: https://dwc.tdwg.org  
+International Commission on Stratigraphy https://stratigraphy.org/

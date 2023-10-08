@@ -1,4 +1,4 @@
-# Semantic GTS
+# Geologic Timescale Data Transformation
 ## Standardization of Published Geologic Timescale Verbatim Values
 Formalized and fully documented process for standardizing published Geologic Timescale values 
 

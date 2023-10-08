@@ -1,7 +1,5 @@
 # Geologic Timescale Data Transformation
-## Standardization of Published Geologic Timescale Verbatim Values
-Formalized and fully documented process for standardizing published Geologic Timescale values 
-
+### Standardization of Published Geologic Timescale Verbatim Values
 This repo contains procedures for transforming verbatim geologic timescale values into a standardized set suitable for data publishing. This project originated as a 2022-2023 effort by the TDWG Paleo Data Working Group to assess the quality and fitness of use of Geologic TImescale values published to GBIF (https://gbif.org). The results were published in 2023 with a subsequent presentation at the TDWG2023 conference (see below). In addition to transformation procedures, the repo contains a collection of curated geologic timescale resources to facilitate and support future geoinformatics projects related to data transformation and quality assessments.
 
 Publication:  

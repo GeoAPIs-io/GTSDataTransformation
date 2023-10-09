@@ -27,14 +27,12 @@ Edelstein S, Norton B (2023) Semantic Mapping of the Geologic Time Scale: A temp
 
 Contacts  
 Susan Edelstein   
+[shedelst@ncsu.edu](shedelst@ncsu.edu)
 
 Ben Norton  
-ben@geoapis.io  
+[ben@geoapis.io](ben@geoapis.io)
 
 In collaboration with the Paleo Data Working Group  
+[https://paleo-data.github.io/}(https://paleo-data.github.io/)
 
 
-Standards
-Chronometric Age Vocabulary List of Terms https://chrono.tdwg.org/list/  
-Darwin Core: https://dwc.tdwg.org  
-International Commission on Stratigraphy https://stratigraphy.org/

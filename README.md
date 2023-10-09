@@ -33,6 +33,6 @@ Ben Norton
 [ben@geoapis.io](ben@geoapis.io)
 
 In collaboration with the Paleo Data Working Group  
-[https://paleo-data.github.io/}(https://paleo-data.github.io/)
+[https://paleo-data.github.io/](https://paleo-data.github.io/)
 
 

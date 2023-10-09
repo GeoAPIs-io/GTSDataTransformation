@@ -5,9 +5,9 @@ This repo contains procedures for transforming verbatim geologic timescale value
 Edelstein S, Norton B (2023) Semantic Mapping of the Geologic Time Scale: A temporal reference. Biodiversity Information Science and Standards 7: e112232. https://doi.org/10.3897/biss.7.112232  
 
 ### Semantic Ruleset
-Current Version (20231009)
-Status **DRAFT**
-[https://docs.google.com/spreadsheets/d/1jqrIIDtQBxZ58IxIhZaMHDQANP0ml74jFoXQTMIYc_w/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1jqrIIDtQBxZ58IxIhZaMHDQANP0ml74jFoXQTMIYc_w/edit?usp=sharing)
+Current Version: 20231009
+Status **DRAFT**  
+Location: [https://docs.google.com/spreadsheets/d/1jqrIIDtQBxZ58IxIhZaMHDQANP0ml74jFoXQTMIYc_w/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1jqrIIDtQBxZ58IxIhZaMHDQANP0ml74jFoXQTMIYc_w/edit?usp=sharing)
 
 ### Data
 | Name | URL | Remarks | 
